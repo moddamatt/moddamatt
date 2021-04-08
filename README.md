@@ -2,14 +2,13 @@
 
 🛠 Welcome to my Profile
 <!--
-**moddamatt/moddamatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**moddamatt/moddamatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:echomatt95@gmail.com)](mailto:echomatt95@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ModdaMatt/)](https://twitter.com/ModdaMatt/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mattmorganlewis/)](https://www.linkedin.com/in/mattmorganlewis/)
-[![Github Followers](https://img.shields.io/github/followers/moddmatt?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/moddamatt?tab=followers)
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,5 +17,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...-->
